@@ -6,7 +6,7 @@
 
 ![Snack Bar Website](img/Screenshot_1.png)
 
-Landing page for a fictional snack bar, developed using **HTML5** and **CSS3**. This project was created as a practice exercise focused on website structure and front-end basics.
+Landing page for a fictional snack bar, developed using **HTML5**, **CSS3**, and **JavaScript**. This project was created as a practice exercise focused on website structure, front-end basics, and user interactivity.
 
 ## 📋 Table of Contents
 
@@ -21,21 +21,23 @@ Landing page for a fictional snack bar, developed using **HTML5** and **CSS3**. 
 
 ## 📌 About the Project
 
-The **Snack Bar Website** is a static project that simulates a hamburger restaurant homepage. It includes a fictional menu, illustrative images, and contact information, all wrapped in a clean, user-friendly layout.
+The **Snack Bar Website** is a static project that simulates a hamburger restaurant homepage. It includes a fictional menu, illustrative images, and contact information, all wrapped in a clean, user-friendly layout. It also includes JavaScript features for smooth navigation and enhanced user experience.
 
 ## 🔹 Main Features
 
 ✅ Simple and clear layout  
 ✅ Fictional menu with images  
 ✅ Responsive design  
-✅ Great starter project for HTML/CSS beginners
+✅ Basic interactivity with JavaScript  
+✅ Great starter project for HTML/CSS/JS beginners
 
 ---
 
 ## 🚀 Technologies Used
 
 - **HTML5**  
-- **CSS3**
+- **CSS3**  
+- **JavaScript**
 
 ---
 
@@ -61,7 +63,7 @@ cd site-lanchonete
 
 Here are some screenshots of the website in action:
 
->**Abount the store**
+>**About the store**
 <p align="center">
   <img src="img/Screenshot_1.png" alt="Home Page" width="80%">
 </p>
@@ -96,4 +98,4 @@ This project was developed for educational purposes only and does not carry a co
 
 ---
 
-🍟 **Developed as an HTML and CSS practice project by Eduardo Falabriti**
+🍟 **Developed as an HTML, CSS, and JavaScript practice project by Eduardo Falabriti**
