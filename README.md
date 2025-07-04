@@ -4,7 +4,7 @@
 
 ---
 
-![Snack Bar Website](img/screenshot_1.png)
+![Snack Bar Website](img/Screenshot_1.png)
 
 Landing page for a fictional snack bar, developed using **HTML5** and **CSS3**. This project was created as a practice exercise focused on website structure and front-end basics.
 
@@ -62,19 +62,19 @@ cd site-lanchonete
 Here are some screenshots of the website in action:
 
 <p align="center">
-  <img src="img/screenshot_1.png" alt="Home Page" width="80%">
+  <img src="img/Screenshot_1.png" alt="Home Page" width="80%">
 </p>
 
 <p align="center">
-  <img src="img/screenshot_2.png" alt="Menu Page" width="80%">
+  <img src="img/Screenshot_2.png" alt="Menu Page" width="80%">
 </p>
 
 <p align="center">
-  <img src="img/screenshot_3.png" alt="Menu Page" width="80%">
+  <img src="img/Screenshot_3.png" alt="Menu Page" width="80%">
 </p>
 
 <p align="center">
-  <img src="img/screenshot_4.png" alt="Menu Page" width="80%">
+  <img src="img/Screenshot_4.png" alt="Menu Page" width="80%">
 </p>
 
 ---
