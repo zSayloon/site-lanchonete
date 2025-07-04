@@ -6,7 +6,7 @@
 
 ![Site Lanchonete](img/Screenshot_1.png)
 
-Landing page de uma lanchonete fictícia, desenvolvida com **HTML5** e **CSS3**, como exercício de estruturação de sites institucionais e prática de front-end básico.
+Landing page de uma lanchonete fictícia, desenvolvida com **HTML5**, **CSS3** e **JavaScript**, como exercício de estruturação de sites institucionais, prática de front-end básico e interatividade.
 
 ## 📋 Índice
 
@@ -21,21 +21,23 @@ Landing page de uma lanchonete fictícia, desenvolvida com **HTML5** e **CSS3**,
 
 ## 📌 Sobre o Projeto
 
-O **Site Lanchonete** é um projeto de site estático que simula a página de uma lanchonete ou hamburgueria. Apresenta um menu fictício, imagens ilustrativas e informações de contato, com foco em design limpo e navegação simples.
+O **Site Lanchonete** é um projeto de site estático que simula a página de uma lanchonete ou hamburgueria. Apresenta um menu fictício, imagens ilustrativas e informações de contato, com foco em design limpo, navegação simples e interatividade por meio de JavaScript.
 
 ## 🔹 Recursos principais
 
 ✅ Estrutura simples e clara  
 ✅ Menu fictício com imagens  
 ✅ Design adaptável  
-✅ Projeto ideal para iniciantes em HTML/CSS
+✅ Interatividade com JavaScript  
+✅ Projeto ideal para iniciantes em HTML/CSS/JS
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**  
-- **CSS3**
+- **CSS3**  
+- **JavaScript**
 
 ---
 
@@ -68,17 +70,17 @@ Abaixo algumas capturas de tela do site:
 
 >**Eventos**
 <p align="center">
-  <img src="img/Screenshot_2.png" alt="Cardápio" width="80%">
+  <img src="img/Screenshot_2.png" alt="Eventos" width="80%">
 </p>
 
->**Cardapio**
+>**Cardápio**
 <p align="center">
   <img src="img/Screenshot_3.png" alt="Cardápio" width="80%">
 </p>
 
 >**Contato**
 <p align="center">
-  <img src="img/Screenshot_4.png" alt="Cardápio" width="80%">
+  <img src="img/Screenshot_4.png" alt="Contato" width="80%">
 </p>
 
 ---
@@ -96,4 +98,4 @@ Este projeto foi desenvolvido com fins educacionais e não possui licença comer
 
 ---
 
-🍟 **Desenvolvido como prática de HTML e CSS por Eduardo Falabriti**
+🍟 **Desenvolvido como prática de HTML, CSS e JavaScript por Eduardo Falabriti**
