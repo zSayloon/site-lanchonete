@@ -6,7 +6,7 @@ body {
     background-color: #d5b23f;
 }
 
-header img{
+header img {
     width: 70px;
 }
 
@@ -38,46 +38,62 @@ h3 {
 
 #sobre-loja,
 #cardapio {
-    background-color:rgba(255, 228, 196, 0.676);
+    background-color: rgba(255, 228, 196, 0.676);
 }
 
-.text-colored{
+.text-colored {
     color: #d5b23f;
 }
 
 .nav-cardapio .nav-link.active,
-#fale-conosco button{
+#fale-conosco button {
     background-color: #d5b23f;
     color: #fff;
 }
 
-.nav-cardapio .nav-link:hover{
+.nav-cardapio .nav-link:hover {
     color: #d5b23f;
 }
 
-.social-link li{
+.social-link li {
     list-style: none;
     display: inline;
 }
 
-.social-link a{
+.social-link a {
     text-decoration: none;
 }
 
-#fale-conosco,
-#cardapio,
-#eventos{
+#fale-conosco {
+    scroll-margin-top: 50px;
     padding: 100px 0px;
 }
 
-#sobre{
-    padding: 70px 0px;
+#cardapio {
+    padding: 100px 0px;
+    scroll-margin-top: 50px;
 }
 
+
+#eventos {
+    padding: 100px 0px;
+    scroll-margin-top: 50px;
+}
+
+#sobre {
+    padding: 100px 0px;
+}
+
+textarea {
+    resize: none;
+    height: 100px;
+}
+
+
 @media (max-width: 767px) {
-    .carousel-item img{
+    .carousel-item img {
         height: 300px;
     }
 
-    
+
 }
