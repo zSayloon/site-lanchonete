@@ -61,18 +61,22 @@ cd site-lanchonete
 
 Here are some screenshots of the website in action:
 
+>**Abount the store**
 <p align="center">
   <img src="img/Screenshot_1.png" alt="Home Page" width="80%">
 </p>
 
+>**Events**
 <p align="center">
   <img src="img/Screenshot_2.png" alt="Menu Page" width="80%">
 </p>
 
+>**Menu**
 <p align="center">
   <img src="img/Screenshot_3.png" alt="Menu Page" width="80%">
 </p>
 
+>**Contact**
 <p align="center">
   <img src="img/Screenshot_4.png" alt="Menu Page" width="80%">
 </p>
