@@ -1,10 +1,10 @@
 ## 🍔 Snack Bar Website - Landing Page
 
-[🇧🇷 Portuguese Version](README.md) | [🇺🇸 English Version](#)
+[🇺🇸 English Version](#) | [🇧🇷 Portuguese Version](PT-BR-README.md) 
 
 ---
 
-![Snack Bar Website](images/screenshot_1.png)
+![Snack Bar Website](img/Screenshot_1.png)
 
 Landing page for a fictional snack bar, developed using **HTML5** and **CSS3**. This project was created as a practice exercise focused on website structure and front-end basics.
 
@@ -61,12 +61,24 @@ cd site-lanchonete
 
 Here are some screenshots of the website in action:
 
+>**Abount the store**
 <p align="center">
-  <img src="images/screenshot_1.png" alt="Home Page" width="80%">
+  <img src="img/Screenshot_1.png" alt="Home Page" width="80%">
 </p>
 
+>**Events**
 <p align="center">
-  <img src="images/screenshot_2.png" alt="Menu Page" width="80%">
+  <img src="img/Screenshot_2.png" alt="Menu Page" width="80%">
+</p>
+
+>**Menu**
+<p align="center">
+  <img src="img/Screenshot_3.png" alt="Menu Page" width="80%">
+</p>
+
+>**Contact**
+<p align="center">
+  <img src="img/Screenshot_4.png" alt="Menu Page" width="80%">
 </p>
 
 ---

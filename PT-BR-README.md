@@ -1,10 +1,10 @@
 ## 🍔 Site Lanchonete - Página Inicial
 
-[🇺🇸 English Version](README-EN.md) | [🇧🇷 Versão em Português](#)
+[🇺🇸 English Version](README.md) | [🇧🇷 Versão em Português](#)
 
 ---
 
-![Site Lanchonete](images/screenshot_1.png)
+![Site Lanchonete](img/Screenshot_1.png)
 
 Landing page de uma lanchonete fictícia, desenvolvida com **HTML5** e **CSS3**, como exercício de estruturação de sites institucionais e prática de front-end básico.
 
@@ -61,12 +61,24 @@ cd site-lanchonete
 
 Abaixo algumas capturas de tela do site:
 
+>**Sobre a Loja**
 <p align="center">
-  <img src="images/screenshot_1.png" alt="Página Inicial" width="80%">
+  <img src="img/Screenshot_1.png" alt="Página Inicial" width="80%">
 </p>
 
+>**Eventos**
 <p align="center">
-  <img src="images/screenshot_2.png" alt="Cardápio" width="80%">
+  <img src="img/Screenshot_2.png" alt="Cardápio" width="80%">
+</p>
+
+>**Cardapio**
+<p align="center">
+  <img src="img/Screenshot_3.png" alt="Cardápio" width="80%">
+</p>
+
+>**Contato**
+<p align="center">
+  <img src="img/Screenshot_4.png" alt="Cardápio" width="80%">
 </p>
 
 ---
