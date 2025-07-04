@@ -6,6 +6,10 @@ body {
     background-color: #d5b23f;
 }
 
+header img{
+    width: 70px;
+}
+
 #cabecalho .nav .nav-link.active {
     background-color: #fff;
     color: #d5b23f;
